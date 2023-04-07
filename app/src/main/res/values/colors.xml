@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="periwinkle">#CCD5FF</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pink_lavender">#E7BBE3</color>
+    <color name="puce">#C884A6</color>
+    <color name="maya_blue">#7CC6FE</color>
+    <color name="vivid_sky_blue">#23C9FF</color>
+</resources>
